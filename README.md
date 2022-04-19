@@ -1,4 +1,7 @@
-<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm Ritik Gupta</h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
+
 <p align='center'> </h1>
 <p align="center">
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
@@ -6,10 +9,23 @@
 
 <img src="https://raw.githubusercontent.com/codewithritik/codewithritik/main/web_development.gif" />
 
-<h3 align="center">A passionate full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to work in an organization that offers opportunities
-to enhance my technical skills and enables me to grow alongside the organization.
-</h3>
+<div size='20px'> Hi! I'm Arnavi Gode and I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest! if you're looking for a developer to add to your team, I'd love to hear from you! Plaese feel free to Contact me.
+:smile: 
+</div>
 
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
+- 💬 Ask me about HTML, CSS, JavaScript
+- 
+- :computer: I'm currently working on MERN Stack
+- 
+- :rocket: Always ready to collaborate for Dev Experiments
+- 
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
+- 
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- 
 <h3 align="center" text-decoration="none"><a href="https://github.com/codewithritik/" target="_blank" rel="noopener noreferrer" >
     Visit my website
 </a></h3>
@@ -34,20 +50,6 @@ to enhance my technical skills and enables me to grow alongside the organization
 
 
 </p> -->
-
-<h2 align="center"> My Github Stats : </h2>
-    
-<p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=chamarthivamsidev&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
- 
- <p align="center"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chamarthivamsidev&" alt="chamarthivamsidev" /></p>
-
-<p align="center"><img width="50%" border="1" margin-bottom= "30" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamarthivamsidev&show_icons=true&locale=en&layout=compact" alt="chamarthivamsidev" /></p>
-
-<!-- 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarthivamsidev&layout=compact&theme=vue&hide_border=true" /> -->
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chamarthivamsidev)
-
 
 <h2> Connect with me :  </h2>
 
