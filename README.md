@@ -5,7 +5,7 @@
 <a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
 
-<img src="/images/web_development.gif" />
+<img src="https://raw.githubusercontent.com/codewithritik/codewithritik/main/web_development.gif" />
 
 <h3 align="center">A passionate full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to work in an organization that offers opportunities
 to enhance my technical skills and enables me to grow alongside the organization.
