@@ -52,18 +52,16 @@
 
 <h2> Connect with me :  </h2>
 
-<div>
  
-  <div><a href="https://www.linkedin.com/in/ritik85/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a><div/>
+         <div style="width: 500px; height: 40px; display: flex;">
+             <a href="https://www.linkedin.com/in/ritik85/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" style="margin: 5px;"/></a>
    
-  <a href="https://medium.com/@ritikadvice" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium Profile link" height="30" width="40" /></a>   <div/>
-  
-  <div> <a href="" target="_blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-500x281.png" alt="Linkedin" height="30" width="50" /><p>ritik85058@gmail.com<p/></a>  <div/>
- 
+    <a href="https://medium.com/@ritikadvice" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium Profile link" height="30" width="40" style="margin: 5px;"/></a>
+
+                <div style="display: flex" ><img src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-500x281.png" height="30" width="60" style="margin: 5px;"/> <div><p style=" height: 20px; margin-top: 12px;">ritik85058@gmail.com</p></div> </div>
  
     
   
-<div/>
 
 <br>
 <br>
