@@ -51,15 +51,9 @@
 </p> -->
 
 <h2> Connect with me :  </h2>
-<p>
-
-         <a href="https://www.linkedin.com/in/ritik85/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" style="margin: 5px;"/></a>
-   
-    <a href="https://medium.com/@ritikadvice" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium Profile link" height="30" width="40" style="margin: 5px;"/></a>
-
-                <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium Profile link" height="30" width="40" style="margin: 5px;"/> <p style=" height: 20px; margin-top: 12px;">ritik85058@gmail.com</p>
-  
-<p/>
+# :office: How Can you reach me?
+  Connect with me on email ritik85058@gmail.com. or
+   [LinkedIn](https://www.linkedin.com/in/ritik85/).
 <br>
 <br>
 
