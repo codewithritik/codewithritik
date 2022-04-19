@@ -55,7 +55,7 @@
 <p>
     
     <a href="http://github.com/codewithritik/" target="_blank"><img align="center" src="https://1000logos.net/wp-content/uploads/2021/05/Gmail-logo-500x281.png" alt="Gmail link" height="30" width="40" /></a>
-    <p>ritik85058@gmail.com<p/>
+ 
   <a href="https://www.linkedin.com/in/ritik85/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
   <a href="https://medium.com/@ritikadvice" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium Profile link" height="30" width="40" /></a>
  
