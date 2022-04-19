@@ -1,47 +1,73 @@
-<h2 align="left">
- <abc>
-  <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
-  <br> I'm Ritik Gupta, Full Stack Web Developer :computer:<br>
-  <br>
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
- </abc>
-</h2> 
-
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :computer: I'm currently working on MERN Stack
-- :rocket: Always ready to collaborate for Dev Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-
-
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
-<p align="left">
- <p float='left'>
-<img src="https://camo.githubusercontent.com/2fad14d202b24de54ef28fb28fc41b3fe661fc22ca72ab6045ed280d277bb536/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c6174266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" height="25">
-
-<img src="https://camo.githubusercontent.com/106cfcc1bea1938e98f03e1291b18f30091ec44513da900b54f988416824d3b7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d435353332d3135373242363f7374796c653d666c6174266c6f676f3d63737333266c6f676f436f6c6f723d7768697465" height="25">
-
-<img src="https://camo.githubusercontent.com/02d126cc5df5f167f9eefaa9dad21dcf9b92ad8c4eedcb9daa32f7c80c37b979/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d6565643731383f7374796c653d666c6174266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d666666666666" height="25">
-
-<img src="https://camo.githubusercontent.com/9627fbbce0fc5b0724e21b9a80fbe82e235db74e17c63d1fd461211b12be557e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3030303030303f7374796c653d666c6174266c6f676f3d7265616374266c6f676f436f6c6f723d303063386666" height="25">
-
-<img src="https://camo.githubusercontent.com/7d4b4d134644f2b965fd4f1f326e7340d804e653c9cdf3977d9acf5877f6b096/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736346162633f7374796c653d666c6174266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" height="25">
-
-<img src="https://camo.githubusercontent.com/3084f133857f6d0a29d410e59ba39f6906b0f2e32b24082d1e95710196984db6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4d6f6e676f44422d3444423333443f7374796c653d666c6174266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d464646464646" height="25">
-
-<img src="https://camo.githubusercontent.com/0c79b4c53042fc972376a628d2ffac987f98def4b6351c32803fa6638e42f699/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d457870726573732e6a732d3738373837383f7374796c653d666c6174" height="25">
-
-<img src="https://camo.githubusercontent.com/16c921bc8fbac9756892f9344acbe27a5be09b60671d9db1fc8a6cb33b5cccd6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64652e6a732d3343383733413f7374796c653d666c6174266c6f676f3d4e6f64652e6a73266c6f676f436f6c6f723d7768697465" height="25">
-
-<img src="https://camo.githubusercontent.com/e6827ddacb39b17e677eaffdae6995da1cc09076e4d50f2b816d2758873f438c/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875622d3030303030303f7374796c653d666c6174266c6f676f3d676974687562266c6f676f436f6c6f723d464646464646" height="25">
-
-<img src="https://camo.githubusercontent.com/dcba282d85f141d78beb44a3a4f48c7f929f3ac7aaedd77a490e7a64fdcf2096/687474703a2f2f696d672e736869656c64732e696f2f62616467652f2d5653253230436f64652d3030374143433f7374796c653d666c6174266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" height="25">
-
-<img src="https://camo.githubusercontent.com/4d342ae3ee59cbd9a1c3b975728d4e8c76c533f5e4178d0af677e0d1097f6a64/687474703a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4641343536363f7374796c653d666c6174266c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465" height="25">
+<  
+<h1 align="center">Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> , I'm Ritik Gupta</h1>
+<p align='center'> </h1>
+<p align="center">
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
 </p>
+
+<img src="/images/web_development.gif" />
+
+<h3 align="center">A passionate full-stack web developer trained in HTML, CSS, Javascript, and MERN stack. Looking forward to work in an organization that offers opportunities
+to enhance my technical skills and enables me to grow alongside the organization.
+</h3>
+
+<h3 align="center" text-decoration="none"><a href="https://github.com/codewithritik/" target="_blank" rel="noopener noreferrer" >
+    Visit my website
+</a></h3>
+
+
+<h2 align="center"> Languages & Tools :</h2>
+<p align="center"> <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/-Redux-764abc?style=flat&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"> <img src="https://img.shields.io/badge/Material--UI-0081CB?logo=material-ui&logoColor=white"> <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=white"> <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/redis-CC0000.svg?style=flat&logo=redis&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=Postman&logoColor=white"> <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white"> <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF"> <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white"> <img src="https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white"> <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white"> </p>
+
+<!-- <p align="center"> 
+<img src="https://img.icons8.com/color/48/000000/html-5.png"/>  
+   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
+   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"    alt="react" width="40" height="40"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
+    <img src="https://img.icons8.com/color/48/000000/git.png"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="45" height="45"/>
+
+
+</p> -->
+
+<h2 align="center"> My Github Stats : </h2>
+    
+<p align="center">&nbsp;<img width="50%"  margin-top="30" src="https://github-readme-stats.vercel.app/api?username=chamarthivamsidev&show_icons=true&locale=en" alt="chamarthivamsidev" /></p>
+ 
+ <p align="center"><img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=chamarthivamsidev&" alt="chamarthivamsidev" /></p>
+
+<p align="center"><img width="50%" border="1" margin-bottom= "30" src="https://github-readme-stats.vercel.app/api/top-langs?username=chamarthivamsidev&show_icons=true&locale=en&layout=compact" alt="chamarthivamsidev" /></p>
+
+<!-- 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamarthivamsidev&layout=compact&theme=vue&hide_border=true" /> -->
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chamarthivamsidev)
+
+
+<h2> Connect with me :  </h2>
+
+<p>
+  
+  <a href="https://twitter.com/engineer1147" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engineer1147" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/chamarthi-vamsi-11l/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vamsi" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/u_me_we_lifelines/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u_me_we_lifelines" height="30" width="40" /></a>
+  <a href="https://medium.com/@engineer873" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@engineer873" height="30" width="40" /></a>
+  
+  <a href="https://leetcode.com/vamsi1147/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vamsi1147" height="30" width="40" /></a>
+  
+</p>
+
+<br>
+<br>
+
 
 
 <p align="center">
-  <img alt="Shawon Stats" src="https://github-readme-stats.vercel.app/api?username=codewithritik&show_icons=true&theme=radical">
+  <img alt="Ritik Stats" src="https://github-readme-stats.vercel.app/api?username=codewithritik&show_icons=true&theme=radical">
 </p>
