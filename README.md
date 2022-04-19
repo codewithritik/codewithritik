@@ -4,26 +4,25 @@
 
 <p align='center'> </h1>
 <p align="center">
-<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Full-Stack+web+developer." /></a>
+<a align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=d25f2c&size=25&lines=Welcome+to+my+GitHub+Profile!;I'm+Ritik+Full-Stack+web+developer." /></a>
 </p>
 
 <img src="https://raw.githubusercontent.com/codewithritik/codewithritik/main/web_development.gif" />
 
-<div size='20px'> Hi! I'm Arnavi Gode and I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest! if you're looking for a developer to add to your team, I'd love to hear from you! Plaese feel free to Contact me.
+<div size='20px'> Hi! I'm Ritik Gupta and I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest! if you're looking for a developer to add to your team, I'd love to hear from you! Plaese feel free to Contact me.
 :smile: 
 </div>
 
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
-- 💬 Ask me about HTML, CSS, JavaScript
-- 
+
+
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+ - 💬 Ask me about HTML, CSS, JavaScript
 - :computer: I'm currently working on MERN Stack
-- 
 - :rocket: Always ready to collaborate for Dev Experiments
-- 
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- 
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 - 
 <h3 align="center" text-decoration="none"><a href="https://github.com/codewithritik/" target="_blank" rel="noopener noreferrer" >
@@ -54,13 +53,13 @@
 <h2> Connect with me :  </h2>
 
 <p>
-  
-  <a href="https://twitter.com/engineer1147" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="engineer1147" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/chamarthi-vamsi-11l/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vamsi" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/u_me_we_lifelines/?hl=en" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="u_me_we_lifelines" height="30" width="40" /></a>
-  <a href="https://medium.com/@engineer873" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@engineer873" height="30" width="40" /></a>
-  
-  <a href="https://leetcode.com/vamsi1147/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vamsi1147" height="30" width="40" /></a>
+    
+    <a href="http://github.com/codewithritik/" target="_blank"><img align="center" src="https://camo.githubusercontent.com/598902b81c020e27505970e729fc974b79d83695c043123c9b4e05aeed2872f1/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f372f37652f476d61696c5f69636f6e5f253238323032302532392e737667" alt="Gmail link" height="30" width="40" /></a>
+    <p>ritik85058@gmail.com<p/>
+  <a href="https://www.linkedin.com/in/ritik85/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+  <a href="https://medium.com/@ritikadvice" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium Profile link" height="30" width="40" /></a>
+ 
+    
   
 </p>
 
