@@ -53,7 +53,7 @@
 <h2> Connect with me :  </h2>
 # :office: How Can you reach me?
   Connect with me on email ritik85058@gmail.com. or
-   [LinkedIn](https://www.linkedin.com/in/ritik85/).
+   <a href="https://www.linkedin.com/in/ritik85/" target="_blank">[LinkedIn]</a>
 <br>
 <br>
 
