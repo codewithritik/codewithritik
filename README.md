@@ -12,7 +12,7 @@
 
 
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
+
 
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
@@ -20,6 +20,7 @@
 <div size='20px'> Hi! I'm Ritik Gupta and I'm a web developer with a focus on the MERN stack, but still exploring other technologies and frameworks that catch my interest! if you're looking for a developer to add to your team, I'd love to hear from you! Plaese feel free to Contact me.
 :smile: 
 </div>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />  
 
  - 💬 Ask me about HTML, CSS, JavaScript
 - :computer: I'm currently working on MERN Stack
