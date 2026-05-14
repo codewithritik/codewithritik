@@ -25,7 +25,7 @@ Hi! I'm Ritik Gupta, a Full Stack Developer with 3+ years of experience building
 - ⚡ Fun fact: I enjoy solving complex engineering problems and exploring emerging technologies
 
 <h3 align="center">
-  <a href="https://portfolioritik.netlify.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://folioritik.netlify.app/" target="_blank" rel="noopener noreferrer">
     Visit my Portfolio
   </a>
 </h3>
@@ -35,7 +35,7 @@ Hi! I'm Ritik Gupta, a Full Stack Developer with 3+ years of experience building
    <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"    alt="react" width="40" height="40"/> </a>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodfib/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> 
